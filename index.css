@@ -14,12 +14,13 @@ body{
         font-size: 65px;
     }
     .about_me{
-        transform: translateY(2500px);
+        transform: translateY(2000px);
         font-size: 50px;
         text-align: left;
+        color: white;
     }
     p{
-        font-size: 10px;
+        font-size: 25px;
         color: white;
         text-align: left;
     }
