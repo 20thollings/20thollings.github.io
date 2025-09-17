@@ -6,23 +6,23 @@ body{
     .home{
         color: white;
         text-align: center;
-        font-size: 95px;
-        margin-top: 100px;
+        font-size: 40vw;
+        margin-top: 50vw;
         
     }
     h2{
         color: white;
         text-align: center;
-        font-size: 65px;
+        font-size: 30vw;
     }
     .about_me{
-        transform: translateY(2500px);
-        font-size: 50px;
+        transform: translateY(150vw);
+        font-size: 33vw;
         text-align: left;
         color: white;
     }
     p{
-        font-size: 25px;
+        font-size: 16vw;
         color: white;
         text-align: left;
     }
