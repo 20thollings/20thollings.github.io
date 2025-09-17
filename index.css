@@ -1,5 +1,7 @@
 body{
     background-color: black;
+    
+    overflow-y: auto;
 
     .home{
         color: white;
@@ -14,7 +16,7 @@ body{
         font-size: 65px;
     }
     .about_me{
-        transform: translateY(700px);
+        transform: translateY(2500px);
         font-size: 50px;
         text-align: left;
         color: white;
