@@ -4,13 +4,13 @@ body{
     h1{
         color: white;
         text-align: center;
-        font-size: 70px;
-        margin-top: 150px;
+        font-size: 150px;
+        margin-top: 200px;
         
     }
     h2{
         color: white;
         text-align: center;
-        font-size: 30px;
+        font-size: 85px;
     }
 }
