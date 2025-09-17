@@ -4,16 +4,23 @@ body{
     .home{
         color: white;
         text-align: center;
-        font-size: 150px;
-        margin-top: 200px;
+        font-size: 95px;
+        margin-top: 100px;
         
     }
     h2{
         color: white;
         text-align: center;
-        font-size: 85px;
+        font-size: 65px;
     }
     .about_me{
-        transform: translateY(750px);
+        transform: translateY(2500px);
+        font-size: 50px;
+        text-align: left;
+    }
+    p{
+        font-size: 10px;
+        color: white;
+        text-align: left;
     }
 }
