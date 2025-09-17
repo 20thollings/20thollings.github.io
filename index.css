@@ -5,26 +5,27 @@ body{
 
     .home{
         color: white;
+        text
         text-align: center;
-        font-size: 40vw;
-        margin-top: 50vw;
+        font-size: 40em;
+        margin-top: 50em;
         
     }
     h2{
         color: white;
         text-align: center;
-        font-size: 30vw;
+        font-size: 30em;
     }
     .about_me{
-        transform: translateY(150vw);
-        font-size: 33vw;
+        transform: translateY(150em);
+        font-size: 33em;
         text-align: left;
         color: white;
     }
     p{
-        font-size: 16vw;
+        font-size: 16em;
         color: white;
         text-align: left;
-        transform: translateY(150vw)
+        transform: translateY(185em)
     }
 }
