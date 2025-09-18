@@ -1,13 +1,12 @@
 body{
     background-color: black;
-    
+    margin: 2.5em 1.5em 1em 1.5em;
     overflow-y: auto;
 
     .home{
         color: white;
         text-align: center;
         font-size: 6.5em;
-        margin-top: 2.5em;
         
     }
     h2{
