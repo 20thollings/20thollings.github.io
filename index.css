@@ -6,30 +6,30 @@ body{
     .home{
         color: white;
         text-align: center;
-        font-size: 4em;
+        font-size: 6.5em;
         margin-top: 2.5em;
         
     }
     h2{
         color: white;
         text-align: center;
-        font-size: 2.5em;
+        font-size: 4.5em;
     }
     .pi{
         transform: translateY(20em);
     }
     .subs{
-        font-size: 2em;
+        font-size: 3em;
         text-align: left;
         color: white;
     }
     p{
-        font-size: 1em;
+        font-size: 2em;
         color: white;
         text-align: left;
     }
     .mp{
-        transform: translateY(40em);
+        transform: translateY(60em);
     }
 
 }
