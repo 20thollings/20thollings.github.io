@@ -35,9 +35,11 @@ body{
         text-align: left;
     }
     a{
-        text-decoration: none; 
+        text-decoration: underline; 
         color: white; 
-        font-weight: bold;
+    }
+    a:hover{
+        text-decoration: none;
     }
 
 }
