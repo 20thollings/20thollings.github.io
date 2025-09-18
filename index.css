@@ -6,19 +6,19 @@ body{
     .home{
         color: white;
         text-align: center;
-        font-size: 2.2em;
+        font-size: 4em;
         margin-top: 2.5em;
         
     }
     h2{
         color: white;
         text-align: center;
-        font-size: 2em;
+        font-size: 2.5em;
     }
-    div{
-        transform: translateY(10em);
+    .pi{
+        transform: translateY(20em);
     }
-    .about_me{
+    .subs{
         font-size: 2em;
         text-align: left;
         color: white;
@@ -28,4 +28,8 @@ body{
         color: white;
         text-align: left;
     }
+    .mp{
+        transform: translateY(40em);
+    }
+
 }
