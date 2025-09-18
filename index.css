@@ -1,37 +1,38 @@
 body{
     background-color: black;
-    margin: 3.5em 2.5em 2.5em 2.5em;
+    margin: 17.5vh 15vh 15vh 15vh;
+    padding-bottom: 15nh;
     overflow-y: scroll;
 
     .home{
         color: white;
         text-align: center;
-        font-size: 6.5em;
+        font-size: 20vh;
         
     }
     h2{
         color: white;
         text-align: center;
-        font-size: 4.5em;
+        font-size: 15vh;
     }
     .pi{
-        transform: translateY(20em);
+        transform: translateY(20vh);
     }
     .subs{
-        font-size: 3em;
+        font-size: 7.5vh;
         text-align: center;
         color: white;
     }
     p{
-        font-size: 1.7em;
+        font-size: 3.5vh;
         color: white;
         text-align: left;
     }
     .mp{
-        transform: translateY(60em);
+        transform: translateY(36vh);
     }
     .projects{
-        font-size: 2.75em;
+        font-size: 5vh;
         text-align: left;
     }
     a{
