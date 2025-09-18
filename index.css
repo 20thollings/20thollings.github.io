@@ -19,7 +19,7 @@ body{
     }
     .subs{
         font-size: 3em;
-        text-align: left;
+        text-align: centre;
         color: white;
     }
     p{
@@ -29,6 +29,10 @@ body{
     }
     .mp{
         transform: translateY(60em);
+    }
+    .projects{
+        font-size: 2.75em;
+        text-align: left;
     }
 
 }
