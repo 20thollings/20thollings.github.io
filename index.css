@@ -34,10 +34,16 @@ body{
         .mp{
             transform: translateY(36vh);
             padding-bottom: 5vh;
+            float: right;
         }
         .projects{
             font-size: 5vh;
             text-align: left;
+        }
+        img{
+            width: 25%;
+            float: left;
+            padding-right: 3vh;
         }
     }
     a{
